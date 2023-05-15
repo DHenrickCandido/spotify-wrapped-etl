@@ -14,4 +14,7 @@
 
 - Adding support columns to enable partition (dt_insertion)
 
-- 
+
+Links:
+
+https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52

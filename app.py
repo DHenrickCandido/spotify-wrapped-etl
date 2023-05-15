@@ -113,3 +113,6 @@ def create_spotify_oauth():
             client_secret="f0a7d5f87cc24ac9aa7647553b7c32b8",
             redirect_uri=url_for('authorize', _external=True),
             scope="user-library-read user-read-recently-played")
+
+if __name__ == "__main__":
+    app.run(port="8080")

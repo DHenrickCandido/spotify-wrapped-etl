@@ -1,0 +1,5 @@
+spotipy
+flask
+json
+time
+pandas
